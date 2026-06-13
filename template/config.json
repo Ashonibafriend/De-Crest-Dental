@@ -1,0 +1,211 @@
+{
+  "clinic_name": "De-Crest Dental Clinic",
+  "short_name": "De-Crest Dental",
+  "phone": "+2348066301794",
+  "phone_formatted": "+234 806 630 1794",
+  "email": "care@decrestdental.com.ng",
+  "address": "28 Ishaga Rd, Mabo St, Surulere, Lagos 102215, Lagos, Nigeria",
+  "address_short": "28 Ishaga Road, Surulere",
+  "city": "Surulere",
+  "region": "Lagos",
+  "postal_code": "102215",
+  "country_code": "NG",
+  "geo_latitude": "6.502808",
+  "geo_longitude": "3.355152",
+  "cal_com_link": "ashonibare-samuel-vvfx08/15min",
+  "origin_url": "https://decrestdental.com.ng",
+  "hero_description": "Experience premium, painless dental expertise in Surulere, Lagos. From professional scaling and polishing to cosmetic restorations, Dr. Oyebisi and our welcoming team make you feel right at home.",
+  "map_iframe_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.3837946894086!2d3.355152874992529!3d6.502808093489379!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8c2ec68ab545%3A0xe54e6022e6ba7c6!2s28%20Ishaga%20Rd%2C%20Surulere%2C%20Lagos%20102215%2C%20Lagos%2C%20Nigeria!5e0!3m2!1sen!2sng!4v1717200000000!5m2!1sen!2sng",
+  "theme": {
+    "primary": "#0891b2",
+    "primary_rgb": "8, 145, 178",
+    "cta": "#059669",
+    "brand_color": "#005eb1"
+  },
+  "socials": {
+    "facebook": "https://facebook.com",
+    "instagram": "https://instagram.com",
+    "twitter": "https://twitter.com"
+  },
+  "hours": {
+    "weekdays": "Monday - Saturday",
+    "hours_span": "9:00 AM - 5:30 PM",
+    "sunday": "Closed (Rest Day)"
+  },
+  "hmos": [
+    "AXA Mansard",
+    "Reliance HMO",
+    "Hygeia HMO",
+    "AIICO"
+  ],
+  "services": [
+    {
+      "title": "General Dentistry",
+      "shortDesc": "Comprehensive oral diagnoses, clinical examinations, high-resolution X-rays, cavity assessments, and restorative composite fillings.",
+      "fullDesc": "Complete visual oral examinations, low-radiation digital scans/X-rays, gum tissue evaluations, preventative sealants, and direct aesthetic fillings. We detect oral anomalies early to construct transparent, personalized preventative roadmaps.",
+      "price": "₦10,000+",
+      "icon": "shield-check"
+    },
+    {
+      "title": "Teeth Cleaning",
+      "shortDesc": "Deep scaling and clinical polishing (Scaling & Polishing) to extract plaque, calculus buildup, surface stains, and manage gingivitis.",
+      "fullDesc": "Deep Scaling and Polishing clinical treatments. Using advanced ultrasonic scalers, we remove stubborn calculus layers, eliminate bacterial plaque build-ups from tight root surfaces, wash dental stains, and reverse early-stage gingivitis.",
+      "price": "₦25,000",
+      "icon": "clock"
+    },
+    {
+      "title": "Teeth Whitening",
+      "shortDesc": "Advanced laser bleaching gel applications that safely brighten teeth up to eight shades in a single clinical session.",
+      "fullDesc": "Laser enamel brightening therapies. We coat discolored enamel surfaces with professional-grade whitening peroxide gel and activate it using a safe laser light source. Safely lifts teeth up to eight full shade tiers in under an hour.",
+      "price": "₦85,000",
+      "icon": "sparkles"
+    },
+    {
+      "title": "Dental Implants",
+      "shortDesc": "Permanent biocompatible titanium implants designed to replace missing teeth roots, structurally locked with custom crowns.",
+      "fullDesc": "Surgical titanium implant replacements. We securely anchor sterile titanium root pegs directly into the jaw bone, allowing them to integrate naturally with bone tissue, then seal the anchor with a highly robust handcrafted porcelain crown.",
+      "price": "₦350,000+",
+      "icon": "wrench"
+    },
+    {
+      "title": "Orthodontics",
+      "shortDesc": "Braces, metal brackets, alignment correctors, and premium custom clear aligners for children and adult alignments.",
+      "fullDesc": "Braces, ceramic brackets, alignment wires, and clear aesthetic aligner plans. Designed to correct crowded arches, bite discrepancies, and deep vertical overlays for young teens and adult professionals alike.",
+      "price": "₦450,000+",
+      "icon": "adjustments"
+    },
+    {
+      "title": "Root Canal",
+      "shortDesc": "Advanced micro-endodontic pulpal extraction, deep root canal disinfection, and structural fillings to rescue decaying teeth.",
+      "fullDesc": "Deep root cavity pulpal removal. When severe decay invades inner nerve dockets, our specialists extract diseased organic pulps under full local block, disinfect the root tunnels completely, and apply biological hermetic fillings to save the tooth.",
+      "price": "₦65,000",
+      "icon": "scissors"
+    },
+    {
+      "title": "Pediatric Dentistry",
+      "shortDesc": "Kid-friendly dental sealants, early space maintainers, fluoride therapy, and highly gentle education in a comfortable atmosphere.",
+      "fullDesc": "Friendly, gentle children's dentistry. We apply protective decay sealants, custom-fitted space maintainers for premature baby tooth extractions, minor orthodontic guidance, and gentle oral hygiene education in a fun, non-scary clinic room.",
+      "price": "₦15,000+",
+      "icon": "user-group"
+    },
+    {
+      "title": "Cosmetic Dentistry",
+      "shortDesc": "Aesthetic smile correctors, porcelain/composite veneers, diastema gap closures, and complete smile restorations.",
+      "fullDesc": "Porcelain cosmetic veneers and complete smile makeovers. We custom craft ultra-thin dental laminate shells to cover chipped margins, mask intrinsic tooth discolorations, close gap diastemas, and build symmetric facial harmony.",
+      "price": "₦180,000+",
+      "icon": "pencil"
+    }
+  ],
+  "doctors": [
+    {
+      "name": "Dr. Sarah Johnson",
+      "degree": "BDS, MSc Orthodontics",
+      "specialty": "Orthodontics Specialist",
+      "shortBio": "15 years of experience helping patients achieve healthier smiles through braces and advanced cosmetic alignment correctors.",
+      "fullBio": "Dr. Sarah Johnson has over 15 years of orthodontic experience, specializing in advanced teeth alignment, bracket systems, and clear aligners. She holds degrees from premier institutions and is a registered member of the Medical and Dental Council of Nigeria (MDCN).",
+      "approach": "I believe in alignment that promotes functional oral health and boosts patient self-esteem. Every alignment plan is custom-tailored to the patient's individual facial structure.",
+      "hours": "Tuesday - Friday: 9:00 AM - 5:00 PM",
+      "image": "dr_sarah_johnson.png"
+    },
+    {
+      "name": "Dr. Oyebisi",
+      "degree": "BDS, DDS - Lead Restorative Dentist",
+      "specialty": "Clinical Director",
+      "shortBio": "12+ years of clinical expertise. Renowned for patient-guiding checkups, scaling & polishing, fillings, and a friendly approach.",
+      "fullBio": "Dr. Oyebisi serves as the Clinical Director at De-Crest Dental Clinic. With over 12 years of general and restorative dental practice, he is highly praised by patients for his extremely patient, informative checkup sessions and gentle handling of procedures.",
+      "approach": "My clinical philosophy centers on patient-first diagnostics. I walk patients through every detail of their dental profiles, ensuring they are fully relaxed and informed before we begin any treatment.",
+      "hours": "Monday - Saturday: 9:00 AM - 5:30 PM",
+      "image": "dr_olumide_awosika.png"
+    },
+    {
+      "name": "Dr. Amara Eze",
+      "degree": "BDS (Paediatrics)",
+      "specialty": "Pediatric Dentist",
+      "shortBio": "8 years of child-friendly clinical expertise, creating highly gentle, comfortable, and zero-fear environments.",
+      "fullBio": "Dr. Amara Eze specializes in pediatric dentistry, bringing 8 years of child-friendly clinical expertise. She has crafted comforting, anxiety-reducing protocols that make children feel happy and zero-fear during checkups.",
+      "approach": "I focus on prevention, early interception, and creating positive dental memories for children. Educating parents and kids on habits in a fun way is my priority.",
+      "hours": "Monday - Thursday: 9:00 AM - 4:30 PM",
+      "image": "dr_amara_eze.png"
+    }
+  ],
+  "testimonials": [
+    {
+      "text": "I just got my teeth pampered at Decrest Dental Clinic, and I'm truly impressed. Scaling and polishing was seamless, and the doctor was extremely gentle and professional.",
+      "name": "Maria Udoh",
+      "badge": "Scaling & Polishing",
+      "initials": "MU"
+    },
+    {
+      "text": "This is the best dental care experience I've so far had. Dr. Oyebisi would make you feel like at home, explaining every single detail before every procedure...",
+      "name": "Ogbonna Ahunanya",
+      "badge": "Local Guide · General Checkup",
+      "initials": "OA"
+    },
+    {
+      "text": "I had a scaling and polishing session. Friendly staff, professional environment, very neat and clean. A seamless experience indeed!",
+      "name": "Nonso Akujieze",
+      "badge": "Scaling & Polishing",
+      "initials": "NA"
+    },
+    {
+      "text": "Great response time, welcoming staff, polite nurses, and a very gentle doctor. Highly recommended Surulere dental clinic.",
+      "name": "Mayowa Okunade",
+      "badge": "General Consultation",
+      "initials": "MO"
+    },
+    {
+      "text": "Very polite nurses and welcoming environment. The response time was fast, and they accepted my HMO without issues. Had scaling and polishing and extraction.",
+      "name": "Chukwudubem Nwankwo",
+      "badge": "HMO Billing · Extraction",
+      "initials": "CN"
+    },
+    {
+      "text": "The team made me feel comfortable from my first visit. My smile has never looked better. Professional service at its best!",
+      "name": "Chioma Adebayo",
+      "badge": "Teeth Whitening",
+      "initials": "CA"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you accept insurance or HMOs?",
+      "answer": "Yes, our clinic integrates with several major corporate health insurance HMO schemes in Nigeria (such as AXA Mansard, Reliance HMO, Hygeia HMO, and AIICO). Feel free to present your card at checkout or consult our receptionist to verify coverage."
+    },
+    {
+      "question": "How often should I visit for scaling & polishing?",
+      "answer": "We medically advise having a professional scaling and polishing session every 6 months. This timeline extracts plaque and calculus buildup, prevents enamel staining, and protects your gums from early-stage gingivitis."
+    },
+    {
+      "question": "Is teeth whitening safe?",
+      "answer": "Yes, our whitening treatments are highly safe. We use clinical-grade whitening agents activated by specialized dental lights to lift deep stains without damaging your tooth enamel or pulp, ensuring a bright smile with minimal sensitivity."
+    },
+    {
+      "question": "What happens during my first dental appointment?",
+      "answer": "During your first consultation, our lead dentist conducts a thorough oral assessment, takes diagnostic X-rays if necessary, and discusses your symptoms and goals. We lay out all clinical options, explaining every detail, so you can make informed decisions."
+    },
+    {
+      "question": "Do you treat children?",
+      "answer": "Absolutely! We offer kid-friendly pediatric protocols. Our dentist and staff provide gentle space maintainers, tooth sealants, and positive education in a comforting environment to keep children zero-fear during checkups."
+    },
+    {
+      "question": "Do you offer emergency dental appointments?",
+      "answer": "Yes, same-day dental emergency blocks are structured daily into our schedule. If you have severe toothaches, root swelling, or fractured crowns, contact our front desk immediately to get allocated."
+    },
+    {
+      "question": "What are your clinic's business hours?",
+      "answer": "We are open from Monday through Saturday, 9:00 AM to 5:30 PM. We are closed on Sundays."
+    },
+    {
+      "question": "Where is the clinic located?",
+      "answer": "Our office is centrally located and easily accessible. See our contact details below for exact maps and instructions."
+    },
+    {
+      "question": "Do I need to book in advance or can I walk in?",
+      "answer": "We highly recommend booking appointments in advance using our online form or click-to-call, which guarantees zero waiting times. However, we do welcome walk-in patients and emergency cases as slot availability permits."
+    },
+    {
+      "question": "What payment methods are supported?",
+      "answer": "We accept physical cash, instant bank transfers, POS card terminals, and various HMO insurance networks. Clear consultation pricing is detailed prior to diagnostic checkups."
+    }
+  ]
+}
